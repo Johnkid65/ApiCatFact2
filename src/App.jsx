@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <div>
-        <a href="https://vitejs.dev" target="_blank">
+        <a href="https://jhonuzcategui-portfolio.vercel.app" target="_blank">
           <img src="/Cat.jpg" className="cat" alt="MyCat" />
         </a>
       </div>
